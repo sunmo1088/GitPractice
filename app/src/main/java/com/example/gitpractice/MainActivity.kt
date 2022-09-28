@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         println("This is contained in my first commit")
         println("Changed from second user")
         println("Changed from branch1")
+        println("Changed from branch2")
 
 
     }
