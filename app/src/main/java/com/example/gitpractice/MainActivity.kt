@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         println("Changed from second user")
         println("Changed from branch1")
         println("Changed from branch2")
+        println("Another Changed from branch2")
 
 
     }
