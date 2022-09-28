@@ -10,7 +10,5 @@ class MainActivity : AppCompatActivity() {
 
         println("This is contained in my first commit")
         println("Changed from second user")
-        println("commit practice")
-
     }
 }
